@@ -1,0 +1,5 @@
+#git ignoring files
+
+Server.js
+
+/node_modules
